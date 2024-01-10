@@ -1,2 +1,2 @@
 # ClimaiOS13 
- URL API studying and location data practice
+ URL API studying, location data practice, dark and light theme dependencies
